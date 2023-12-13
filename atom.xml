@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.minz.li</id>
+    <id>https://blog.dnworks.net</id>
     <title>標題</title>
     <subtitle>副標題</subtitle>
-    <icon>https://blog.minz.li/images/favicon.ico</icon>
-    <link href="https://blog.minz.li" />
+    <icon>https://blog.dnworks.net/images/favicon.ico</icon>
+    <link href="https://blog.dnworks.net" />
     <author>
       <name>作者</name>
     </author>
     <updated>2023-11-01T16:00:00.000Z</updated>
     <entry>
-        <id>https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</id>
+        <id>https://blog.dnworks.net/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</id>
         <title>日本語漢字標示</title>
-        <link rel="alternate" href="https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/"/>
+        <link rel="alternate" href="https://blog.dnworks.net/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/"/>
         <content type="html">&lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;效果如下:&lt;/p&gt;
@@ -29,14 +29,14 @@
 &lt;ruby&gt;取り返す&lt;rt&gt;とりかえす&lt;/rt&gt;&lt;/ruby&gt;&lt;/p&gt;
 &lt;hr /&gt;
 </content>
-        <category term="doc" scheme="https://blog.minz.li/categories/doc/" />
-        <category term="doc" scheme="https://blog.minz.li/tags/doc/" />
+        <category term="doc" scheme="https://blog.dnworks.net/categories/doc/" />
+        <category term="doc" scheme="https://blog.dnworks.net/tags/doc/" />
         <updated>2023-11-01T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</id>
+        <id>https://blog.dnworks.net/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</id>
         <title>日本語漢字標示</title>
-        <link rel="alternate" href="https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/"/>
+        <link rel="alternate" href="https://blog.dnworks.net/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/"/>
         <content type="html">&lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;效果如下:&lt;/p&gt;
@@ -53,8 +53,8 @@
 &lt;ruby&gt;取り返す&lt;rt&gt;とりかえす&lt;/rt&gt;&lt;/ruby&gt;&lt;/p&gt;
 &lt;hr /&gt;
 </content>
-        <category term="docc" scheme="https://blog.minz.li/categories/docc/" />
-        <category term="docc" scheme="https://blog.minz.li/tags/docc/" />
+        <category term="docc" scheme="https://blog.dnworks.net/categories/docc/" />
+        <category term="docc" scheme="https://blog.dnworks.net/tags/docc/" />
         <updated>2023-11-01T16:00:00.000Z</updated>
     </entry>
 </feed>

@@ -3,8 +3,8 @@
     <channel>
         <title>標題</title>
         <subtitle>副標題</subtitle>
-        <icon>https://blog.minz.li/images/favicon.ico</icon>
-        <link>https://blog.minz.li</link>
+        <icon>https://blog.dnworks.net/images/favicon.ico</icon>
+        <link>https://blog.dnworks.net</link>
         <author>
           <name>作者</name>
         </author>
@@ -13,11 +13,11 @@
         <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
         <lastBuildDate>Wed, 01 Nov 2023 16:00:00 +0000</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
+            <guid isPermalink="true">https://blog.dnworks.net/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
             <title>日本語漢字標示</title>
-            <link>https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
-            <category term="doc" scheme="https://blog.minz.li/categories/doc/" />
-            <category term="doc" scheme="https://blog.minz.li/tags/doc/" />
+            <link>https://blog.dnworks.net/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
+            <category term="doc" scheme="https://blog.dnworks.net/categories/doc/" />
+            <category term="doc" scheme="https://blog.dnworks.net/tags/doc/" />
             <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -37,11 +37,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
+            <guid isPermalink="true">https://blog.dnworks.net/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
             <title>日本語漢字標示</title>
-            <link>https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
-            <category term="docc" scheme="https://blog.minz.li/categories/docc/" />
-            <category term="docc" scheme="https://blog.minz.li/tags/docc/" />
+            <link>https://blog.dnworks.net/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
+            <category term="docc" scheme="https://blog.dnworks.net/categories/docc/" />
+            <category term="docc" scheme="https://blog.dnworks.net/tags/docc/" />
             <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
