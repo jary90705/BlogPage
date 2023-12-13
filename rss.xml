@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>標題</title>
+        <subtitle>副標題</subtitle>
+        <icon>https://blog.minz.li/images/favicon.ico</icon>
+        <link>https://blog.minz.li</link>
+        <author>
+          <name>作者</name>
+        </author>
+        <description>描述</description>
+        <language>zh-TW</language>
+        <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 01 Nov 2023 16:00:00 +0000</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
+            <title>日本語漢字標示</title>
+            <link>https://blog.minz.li/doc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
+            <category term="doc" scheme="https://blog.minz.li/categories/doc/" />
+            <category term="doc" scheme="https://blog.minz.li/tags/doc/" />
+            <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;效果如下:&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;漢字&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かんじ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt; 取&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; り&lt;rt&gt;&lt;/rt&gt;返&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かえ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; す&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt;可&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 愛&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; い&lt;rt&gt;&lt;/rt&gt;犬&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;いぬ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt; 食&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;た&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; べる&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvZnVyaWdhbmEtbWFya2Rvd24taXQjcXVpY2stdXNhZ2U=&#34;&gt; https://www.npmjs.com/package/furigana-markdown-it#quick-usage&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9zcGVjaWFsLw==&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/special/&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;html&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#html&#34;&gt;#&lt;/a&gt; HTML&lt;/h1&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption&gt;&lt;span&gt;html&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;漢字&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;かんじ&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;取り返す&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;とりかえす&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;效果如下:&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;漢字&lt;rt&gt;かんじ&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt;取り返す&lt;rt&gt;とりかえす&lt;/rt&gt;&lt;/ruby&gt;&lt;/p&gt;
+&lt;hr /&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</guid>
+            <title>日本語漢字標示</title>
+            <link>https://blog.minz.li/docc/%E6%97%A5%E6%9C%AC%E8%AA%9E%E6%BC%A2%E5%AD%97%E6%A8%99%E7%A4%BA/</link>
+            <category term="docc" scheme="https://blog.minz.li/categories/docc/" />
+            <category term="docc" scheme="https://blog.minz.li/tags/docc/" />
+            <pubDate>Wed, 01 Nov 2023 16:00:00 +0000</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;furigana-文字注音&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#furigana-文字注音&#34;&gt;#&lt;/a&gt; furigana 文字注音&lt;/h1&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;furigana 文字注音&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;漢字^かんじ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;取り返す^とりかえす&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;可愛い犬^か・わい・いいぬ&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#123;食べる^たべる&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;效果如下:&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;漢字&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かんじ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt; 取&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; り&lt;rt&gt;&lt;/rt&gt;返&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;かえ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; す&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt;可&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; 愛&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;わい&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; い&lt;rt&gt;&lt;/rt&gt;犬&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;いぬ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt; 食&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;た&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt; べる&lt;rt&gt;&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvZnVyaWdhbmEtbWFya2Rvd24taXQjcXVpY2stdXNhZ2U=&#34;&gt; https://www.npmjs.com/package/furigana-markdown-it#quick-usage&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9zcGVjaWFsLw==&#34;&gt;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/special/&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;html&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#html&#34;&gt;#&lt;/a&gt; HTML&lt;/h1&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption&gt;&lt;span&gt;html&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;漢字&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;かんじ&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt; &lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;取り返す&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;とりかえす&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;rt&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;ruby&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;效果如下:&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;漢字&lt;rt&gt;かんじ&lt;/rt&gt;&lt;/ruby&gt;&lt;br /&gt;
+&lt;ruby&gt;取り返す&lt;rt&gt;とりかえす&lt;/rt&gt;&lt;/ruby&gt;&lt;/p&gt;
+&lt;hr /&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
